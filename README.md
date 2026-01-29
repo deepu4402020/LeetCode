@@ -113,8 +113,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/deepu4402020/LeetCode/tree/master/0210-course-schedule-ii) |
 | [0841-keys-and-rooms](https://github.com/deepu4402020/LeetCode/tree/master/0841-keys-and-rooms) |
 | [1971-find-if-path-exists-in-graph](https://github.com/deepu4402020/LeetCode/tree/master/1971-find-if-path-exists-in-graph) |
+| [3650-minimum-cost-path-with-edge-reversals](https://github.com/deepu4402020/LeetCode/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 ## Topological Sort
 |  |
 | ------- |
 | [0210-course-schedule-ii](https://github.com/deepu4402020/LeetCode/tree/master/0210-course-schedule-ii) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [3650-minimum-cost-path-with-edge-reversals](https://github.com/deepu4402020/LeetCode/tree/master/3650-minimum-cost-path-with-edge-reversals) |
+## Shortest Path
+|  |
+| ------- |
+| [3650-minimum-cost-path-with-edge-reversals](https://github.com/deepu4402020/LeetCode/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 <!---LeetCode Topics End-->
