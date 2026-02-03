@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/deepu4402020/LeetCode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2104-sum-of-subarray-ranges](https://github.com/deepu4402020/LeetCode/tree/master/2104-sum-of-subarray-ranges) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/deepu4402020/LeetCode/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
+| [3637-trionic-array-i](https://github.com/deepu4402020/LeetCode/tree/master/3637-trionic-array-i) |
 ## Hash Table
 |  |
 | ------- |
