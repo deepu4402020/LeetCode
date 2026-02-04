@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/deepu4402020/LeetCode/tree/master/0079-word-search) |
 | [0128-longest-consecutive-sequence](https://github.com/deepu4402020/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/deepu4402020/LeetCode/tree/master/0130-surrounded-regions) |
+| [0137-single-number-ii](https://github.com/deepu4402020/LeetCode/tree/master/0137-single-number-ii) |
 | [0238-product-of-array-except-self](https://github.com/deepu4402020/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/deepu4402020/LeetCode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0994-rotting-oranges](https://github.com/deepu4402020/LeetCode/tree/master/0994-rotting-oranges) |
@@ -141,5 +142,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0137-single-number-ii](https://github.com/deepu4402020/LeetCode/tree/master/0137-single-number-ii) |
 | [1318-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/deepu4402020/LeetCode/tree/master/1318-minimum-flips-to-make-a-or-b-equal-to-c) |
 <!---LeetCode Topics End-->
