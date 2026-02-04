@@ -138,4 +138,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2104-sum-of-subarray-ranges](https://github.com/deepu4402020/LeetCode/tree/master/2104-sum-of-subarray-ranges) |
+## Bit Manipulation
+|  |
+| ------- |
+| [1318-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/deepu4402020/LeetCode/tree/master/1318-minimum-flips-to-make-a-or-b-equal-to-c) |
 <!---LeetCode Topics End-->
