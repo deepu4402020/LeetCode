@@ -31,11 +31,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/deepu4402020/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/deepu4402020/LeetCode/tree/master/0141-linked-list-cycle) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/deepu4402020/LeetCode/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
+| [3713-longest-balanced-substring-i](https://github.com/deepu4402020/LeetCode/tree/master/3713-longest-balanced-substring-i) |
 | [3810-minimum-operations-to-reach-target-array](https://github.com/deepu4402020/LeetCode/tree/master/3810-minimum-operations-to-reach-target-array) |
 ## Enumeration
 |  |
 | ------- |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/deepu4402020/LeetCode/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
+| [3713-longest-balanced-substring-i](https://github.com/deepu4402020/LeetCode/tree/master/3713-longest-balanced-substring-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -69,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/deepu4402020/LeetCode/tree/master/0079-word-search) |
 | [0127-word-ladder](https://github.com/deepu4402020/LeetCode/tree/master/0127-word-ladder) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/deepu4402020/LeetCode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [3713-longest-balanced-substring-i](https://github.com/deepu4402020/LeetCode/tree/master/3713-longest-balanced-substring-i) |
 ## String Matching
 |  |
 | ------- |
@@ -157,4 +160,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1463-cherry-pickup-ii](https://github.com/deepu4402020/LeetCode/tree/master/1463-cherry-pickup-ii) |
+## Counting
+|  |
+| ------- |
+| [3713-longest-balanced-substring-i](https://github.com/deepu4402020/LeetCode/tree/master/3713-longest-balanced-substring-i) |
 <!---LeetCode Topics End-->
