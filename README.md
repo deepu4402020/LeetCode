@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/deepu4402020/LeetCode/tree/master/0079-word-search) |
+| [0401-binary-watch](https://github.com/deepu4402020/LeetCode/tree/master/0401-binary-watch) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0137-single-number-ii](https://github.com/deepu4402020/LeetCode/tree/master/0137-single-number-ii) |
 | [0190-reverse-bits](https://github.com/deepu4402020/LeetCode/tree/master/0190-reverse-bits) |
+| [0401-binary-watch](https://github.com/deepu4402020/LeetCode/tree/master/0401-binary-watch) |
 | [1318-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/deepu4402020/LeetCode/tree/master/1318-minimum-flips-to-make-a-or-b-equal-to-c) |
 ## Greedy
 |  |
