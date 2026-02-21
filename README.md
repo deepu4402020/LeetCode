@@ -156,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0137-single-number-ii](https://github.com/deepu4402020/LeetCode/tree/master/0137-single-number-ii) |
 | [0190-reverse-bits](https://github.com/deepu4402020/LeetCode/tree/master/0190-reverse-bits) |
 | [0401-binary-watch](https://github.com/deepu4402020/LeetCode/tree/master/0401-binary-watch) |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/deepu4402020/LeetCode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [1318-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/deepu4402020/LeetCode/tree/master/1318-minimum-flips-to-make-a-or-b-equal-to-c) |
 ## Greedy
 |  |
@@ -174,4 +175,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0190-reverse-bits](https://github.com/deepu4402020/LeetCode/tree/master/0190-reverse-bits) |
+## Math
+|  |
+| ------- |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/deepu4402020/LeetCode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 <!---LeetCode Topics End-->
