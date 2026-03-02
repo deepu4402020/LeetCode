@@ -10,6 +10,12 @@ public:
             zeros[i] = count;
         }
 
+
+
+
+
+
+
         int swaps = 0;
 
         for (int i = 0; i < n; i++) {
