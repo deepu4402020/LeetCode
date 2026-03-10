@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/deepu4402020/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/deepu4402020/LeetCode/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
+| [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/deepu4402020/LeetCode/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -188,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0799-champagne-tower](https://github.com/deepu4402020/LeetCode/tree/master/0799-champagne-tower) |
 | [1463-cherry-pickup-ii](https://github.com/deepu4402020/LeetCode/tree/master/1463-cherry-pickup-ii) |
+| [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/deepu4402020/LeetCode/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
 ## Counting
 |  |
 | ------- |
