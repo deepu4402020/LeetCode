@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/deepu4402020/LeetCode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2104-sum-of-subarray-ranges](https://github.com/deepu4402020/LeetCode/tree/master/2104-sum-of-subarray-ranges) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/deepu4402020/LeetCode/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
+| [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/deepu4402020/LeetCode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3637-trionic-array-i](https://github.com/deepu4402020/LeetCode/tree/master/3637-trionic-array-i) |
 | [3810-minimum-operations-to-reach-target-array](https://github.com/deepu4402020/LeetCode/tree/master/3810-minimum-operations-to-reach-target-array) |
 | [3818-minimum-prefix-removal-to-make-array-strictly-increasing](https://github.com/deepu4402020/LeetCode/tree/master/3818-minimum-prefix-removal-to-make-array-strictly-increasing) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/deepu4402020/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/deepu4402020/LeetCode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/deepu4402020/LeetCode/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
+| [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/deepu4402020/LeetCode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 ## Matrix
 |  |
 | ------- |
@@ -157,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1424-diagonal-traverse-ii](https://github.com/deepu4402020/LeetCode/tree/master/1424-diagonal-traverse-ii) |
+| [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/deepu4402020/LeetCode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/deepu4402020/LeetCode/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 ## Shortest Path
 |  |
@@ -184,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/deepu4402020/LeetCode/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/deepu4402020/LeetCode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
+| [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/deepu4402020/LeetCode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3810-minimum-operations-to-reach-target-array](https://github.com/deepu4402020/LeetCode/tree/master/3810-minimum-operations-to-reach-target-array) |
 ## Dynamic Programming
 |  |
@@ -205,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/deepu4402020/LeetCode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/deepu4402020/LeetCode/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
+| [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/deepu4402020/LeetCode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 ## Simulation
 |  |
 | ------- |
