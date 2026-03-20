@@ -1,26 +1,44 @@
-int kksub[900], INF=2e5+1;
 class Solution {
 public:
-    static vector<vector<int>> minAbsDiff(vector<vector<int>>& grid, int k) {
-        const int m=grid.size(), n=grid[0].size(), kk=k*k;
-        vector<vector<int>> ans(m-k+1, vector<int>(n-k+1));
-        const int m0=m-k, n0=n-k;
-        for (int i=0; i<=m0; i++) {
-            for (int j=0; j<=n0; j++) {
-                int idx=0, ik=i+k, jk=j+k;
-                for (int x=i; x<ik; x++) {
-                    for (int y=j; y<jk; y++) 
-                        kksub[idx++]=grid[x][y];
+    vector<vector<int>> minAbsDiff(vector<vector<int>>& grid, int k) {
+        int m=grid.size();
+        int n=grid[0].size();
+        int rows=m-k+1;
+        int cols=n-k+1;
+        vector<vector<int>>ans(rows,vector<int>(cols,0));
+        for(int i=0;i<rows;i++){
+            for(int j=0;j<cols;j++){
+                vector<int>vals(k*k);
+                int ind=0;
+                for(int x=i;x<i+k;x++){
+                    for(int y=j;y<j+k;y++){
+                        vals[ind++]=grid[x][y];
+                    }
                 }
-                sort(kksub, kksub+kk);
-                int minD=INF;
-                for(int a=1; a<kk; a++){
-                    int diff=kksub[a]-kksub[a-1];
-                    if (diff>0) minD=min(minD, diff);
+                sort(vals.begin(),vals.end());
+                vector<int>uniq;
+                uniq.reserve(k*k);
+                uniq.push_back(vals[0]);
+                for(int t=1;t<vals.size();t++){
+                    if(vals[t]!=vals[t-1]){
+                        uniq.push_back(vals[t]);
+                    }
                 }
-                ans[i][j]=(minD==INF)?0:minD;
+                if(uniq.size()<=1){
+                    ans[i][j]=0; 
+                    continue;
+                }
+                int mini=INT_MAX;
+                for(int t=1;t<uniq.size();t++){
+                    int dif=uniq[t]-uniq[t-1];
+                    if(dif<mini){
+                        mini=dif;
+                    }
+                    if(mini==0) break;
+                }
+                ans[i][j]=mini;
             }
         }
         return ans;
     }
-}; 
+};
