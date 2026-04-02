@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/deepu4402020/LeetCode/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/deepu4402020/LeetCode/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/deepu4402020/LeetCode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
+| [3418-maximum-amount-of-money-robot-can-earn](https://github.com/deepu4402020/LeetCode/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/deepu4402020/LeetCode/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3637-trionic-array-i](https://github.com/deepu4402020/LeetCode/tree/master/3637-trionic-array-i) |
 | [3643-flip-square-submatrix-vertically](https://github.com/deepu4402020/LeetCode/tree/master/3643-flip-square-submatrix-vertically) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/deepu4402020/LeetCode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/deepu4402020/LeetCode/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/deepu4402020/LeetCode/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
+| [3418-maximum-amount-of-money-robot-can-earn](https://github.com/deepu4402020/LeetCode/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/deepu4402020/LeetCode/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3643-flip-square-submatrix-vertically](https://github.com/deepu4402020/LeetCode/tree/master/3643-flip-square-submatrix-vertically) |
 ## Prefix Sum
@@ -226,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1137-n-th-tribonacci-number](https://github.com/deepu4402020/LeetCode/tree/master/1137-n-th-tribonacci-number) |
 | [1463-cherry-pickup-ii](https://github.com/deepu4402020/LeetCode/tree/master/1463-cherry-pickup-ii) |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/deepu4402020/LeetCode/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
+| [3418-maximum-amount-of-money-robot-can-earn](https://github.com/deepu4402020/LeetCode/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 ## Counting
 |  |
 | ------- |
