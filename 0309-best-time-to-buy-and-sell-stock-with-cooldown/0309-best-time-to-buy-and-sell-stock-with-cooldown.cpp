@@ -2,34 +2,36 @@ class Solution {
 private:
     int n;
     int memo[5001][2];
+
     int solve(vector<int>& prices, int i, int holding) {
-        if (i >= n) {
-            return 0;
+        if (i >= n) return 0;
+
+        if (memo[i][holding] != -1) return memo[i][holding];
+
+        int profit = 0;
+
+
+        if (holding == 0) {
+            int skip = solve(prices, i + 1, 0);
+            int buy  = -prices[i] + solve(prices, i + 1, 1);
+
+            profit = max(skip, buy);
         }
-        if (memo[i][holding] == -1) {
-            int buy = 0, dontbuy = 0;
-            // decide to buy
-            if (!holding) {
-                buy = -prices[i] + solve(prices, i + 1, 1);
-                dontbuy = solve(prices, i + 1, 0);
-                return memo[i][holding] = max(buy, dontbuy);
-            }
 
-            else {
-                int sell = prices[i] + solve(prices, i + 2, 0);
+        else {
+            int hold = solve(prices, i + 1, 1);
+            int sell = prices[i] + solve(prices, i + 2, 0);
 
-                int hold = solve(prices, i + 1, 1);
-
-                return memo[i][holding] = max(sell, hold);
-            }
+            profit = max(hold, sell);
         }
-        return memo[i][holding];
+
+        return memo[i][holding] = profit;
     }
 
 public:
     int maxProfit(vector<int>& prices) {
-        memset(memo, -1, sizeof(memo));
         n = prices.size();
+        memset(memo, -1, sizeof(memo));
         return solve(prices, 0, 0);
     }
 };
