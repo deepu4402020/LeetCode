@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/deepu4402020/LeetCode/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3810-minimum-operations-to-reach-target-array](https://github.com/deepu4402020/LeetCode/tree/master/3810-minimum-operations-to-reach-target-array) |
 | [3818-minimum-prefix-removal-to-make-array-strictly-increasing](https://github.com/deepu4402020/LeetCode/tree/master/3818-minimum-prefix-removal-to-make-array-strictly-increasing) |
+| [3903-smallest-stable-index-i](https://github.com/deepu4402020/LeetCode/tree/master/3903-smallest-stable-index-i) |
 ## Hash Table
 |  |
 | ------- |
