@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3810-minimum-operations-to-reach-target-array](https://github.com/deepu4402020/LeetCode/tree/master/3810-minimum-operations-to-reach-target-array) |
 | [3818-minimum-prefix-removal-to-make-array-strictly-increasing](https://github.com/deepu4402020/LeetCode/tree/master/3818-minimum-prefix-removal-to-make-array-strictly-increasing) |
 | [3903-smallest-stable-index-i](https://github.com/deepu4402020/LeetCode/tree/master/3903-smallest-stable-index-i) |
+| [3904-smallest-stable-index-ii](https://github.com/deepu4402020/LeetCode/tree/master/3904-smallest-stable-index-ii) |
 ## Hash Table
 |  |
 | ------- |
