@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1424-diagonal-traverse-ii](https://github.com/deepu4402020/LeetCode/tree/master/1424-diagonal-traverse-ii) |
 | [1463-cherry-pickup-ii](https://github.com/deepu4402020/LeetCode/tree/master/1463-cherry-pickup-ii) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/deepu4402020/LeetCode/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
+| [1559-detect-cycles-in-2d-grid](https://github.com/deepu4402020/LeetCode/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/deepu4402020/LeetCode/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/deepu4402020/LeetCode/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/deepu4402020/LeetCode/tree/master/1727-largest-submatrix-with-rearrangements) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/deepu4402020/LeetCode/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1463-cherry-pickup-ii](https://github.com/deepu4402020/LeetCode/tree/master/1463-cherry-pickup-ii) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/deepu4402020/LeetCode/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
+| [1559-detect-cycles-in-2d-grid](https://github.com/deepu4402020/LeetCode/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/deepu4402020/LeetCode/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/deepu4402020/LeetCode/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/deepu4402020/LeetCode/tree/master/1926-nearest-exit-from-entrance-in-maze) |
@@ -162,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/deepu4402020/LeetCode/tree/master/0130-surrounded-regions) |
 | [0210-course-schedule-ii](https://github.com/deepu4402020/LeetCode/tree/master/0210-course-schedule-ii) |
 | [0841-keys-and-rooms](https://github.com/deepu4402020/LeetCode/tree/master/0841-keys-and-rooms) |
+| [1559-detect-cycles-in-2d-grid](https://github.com/deepu4402020/LeetCode/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/deepu4402020/LeetCode/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [1971-find-if-path-exists-in-graph](https://github.com/deepu4402020/LeetCode/tree/master/1971-find-if-path-exists-in-graph) |
 ## Sorting
@@ -180,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/deepu4402020/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/deepu4402020/LeetCode/tree/master/0130-surrounded-regions) |
+| [1559-detect-cycles-in-2d-grid](https://github.com/deepu4402020/LeetCode/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/deepu4402020/LeetCode/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [1971-find-if-path-exists-in-graph](https://github.com/deepu4402020/LeetCode/tree/master/1971-find-if-path-exists-in-graph) |
 ## Sliding Window
@@ -203,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/deepu4402020/LeetCode/tree/master/0210-course-schedule-ii) |
 | [0841-keys-and-rooms](https://github.com/deepu4402020/LeetCode/tree/master/0841-keys-and-rooms) |
 | [0994-rotting-oranges](https://github.com/deepu4402020/LeetCode/tree/master/0994-rotting-oranges) |
+| [1559-detect-cycles-in-2d-grid](https://github.com/deepu4402020/LeetCode/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/deepu4402020/LeetCode/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [1971-find-if-path-exists-in-graph](https://github.com/deepu4402020/LeetCode/tree/master/1971-find-if-path-exists-in-graph) |
 | [3905-multi-source-flood-fill](https://github.com/deepu4402020/LeetCode/tree/master/3905-multi-source-flood-fill) |
