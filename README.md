@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0137-single-number-ii](https://github.com/deepu4402020/LeetCode/tree/master/0137-single-number-ii) |
 | [0238-product-of-array-except-self](https://github.com/deepu4402020/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/deepu4402020/LeetCode/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
+| [0396-rotate-function](https://github.com/deepu4402020/LeetCode/tree/master/0396-rotate-function) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/deepu4402020/LeetCode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/deepu4402020/LeetCode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0994-rotting-oranges](https://github.com/deepu4402020/LeetCode/tree/master/0994-rotting-oranges) |
@@ -268,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0264-ugly-number-ii](https://github.com/deepu4402020/LeetCode/tree/master/0264-ugly-number-ii) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/deepu4402020/LeetCode/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
+| [0396-rotate-function](https://github.com/deepu4402020/LeetCode/tree/master/0396-rotate-function) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/deepu4402020/LeetCode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0799-champagne-tower](https://github.com/deepu4402020/LeetCode/tree/master/0799-champagne-tower) |
 | [1137-n-th-tribonacci-number](https://github.com/deepu4402020/LeetCode/tree/master/1137-n-th-tribonacci-number) |
@@ -293,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0264-ugly-number-ii](https://github.com/deepu4402020/LeetCode/tree/master/0264-ugly-number-ii) |
+| [0396-rotate-function](https://github.com/deepu4402020/LeetCode/tree/master/0396-rotate-function) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/deepu4402020/LeetCode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [1137-n-th-tribonacci-number](https://github.com/deepu4402020/LeetCode/tree/master/1137-n-th-tribonacci-number) |
 | [1622-fancy-sequence](https://github.com/deepu4402020/LeetCode/tree/master/1622-fancy-sequence) |
