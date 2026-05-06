@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1727-largest-submatrix-with-rearrangements](https://github.com/deepu4402020/LeetCode/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/deepu4402020/LeetCode/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/deepu4402020/LeetCode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
+| [1861-rotating-the-box](https://github.com/deepu4402020/LeetCode/tree/master/1861-rotating-the-box) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/deepu4402020/LeetCode/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [1980-find-unique-binary-string](https://github.com/deepu4402020/LeetCode/tree/master/1980-find-unique-binary-string) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/deepu4402020/LeetCode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1559-detect-cycles-in-2d-grid](https://github.com/deepu4402020/LeetCode/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/deepu4402020/LeetCode/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/deepu4402020/LeetCode/tree/master/1727-largest-submatrix-with-rearrangements) |
+| [1861-rotating-the-box](https://github.com/deepu4402020/LeetCode/tree/master/1861-rotating-the-box) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/deepu4402020/LeetCode/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/deepu4402020/LeetCode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/deepu4402020/LeetCode/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
@@ -124,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/deepu4402020/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0696-count-binary-substrings](https://github.com/deepu4402020/LeetCode/tree/master/0696-count-binary-substrings) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/deepu4402020/LeetCode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
+| [1861-rotating-the-box](https://github.com/deepu4402020/LeetCode/tree/master/1861-rotating-the-box) |
 | [3643-flip-square-submatrix-vertically](https://github.com/deepu4402020/LeetCode/tree/master/3643-flip-square-submatrix-vertically) |
 ## String
 |  |
