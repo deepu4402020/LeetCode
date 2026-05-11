@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/deepu4402020/LeetCode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2104-sum-of-subarray-ranges](https://github.com/deepu4402020/LeetCode/tree/master/2104-sum-of-subarray-ranges) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/deepu4402020/LeetCode/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
+| [2553-separate-the-digits-in-an-array](https://github.com/deepu4402020/LeetCode/tree/master/2553-separate-the-digits-in-an-array) |
 | [2707-extra-characters-in-a-string](https://github.com/deepu4402020/LeetCode/tree/master/2707-extra-characters-in-a-string) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/deepu4402020/LeetCode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/deepu4402020/LeetCode/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
@@ -322,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/deepu4402020/LeetCode/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1914-cyclically-rotating-a-grid](https://github.com/deepu4402020/LeetCode/tree/master/1914-cyclically-rotating-a-grid) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/deepu4402020/LeetCode/tree/master/2075-decode-the-slanted-ciphertext) |
+| [2553-separate-the-digits-in-an-array](https://github.com/deepu4402020/LeetCode/tree/master/2553-separate-the-digits-in-an-array) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/deepu4402020/LeetCode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/deepu4402020/LeetCode/tree/master/3653-xor-after-range-multiplication-queries-i) |
 ## Recursion
