@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/deepu4402020/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/deepu4402020/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0222-count-complete-tree-nodes](https://github.com/deepu4402020/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/deepu4402020/LeetCode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/deepu4402020/LeetCode/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/deepu4402020/LeetCode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
@@ -265,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0137-single-number-ii](https://github.com/deepu4402020/LeetCode/tree/master/0137-single-number-ii) |
 | [0190-reverse-bits](https://github.com/deepu4402020/LeetCode/tree/master/0190-reverse-bits) |
+| [0222-count-complete-tree-nodes](https://github.com/deepu4402020/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0401-binary-watch](https://github.com/deepu4402020/LeetCode/tree/master/0401-binary-watch) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/deepu4402020/LeetCode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0868-binary-gap](https://github.com/deepu4402020/LeetCode/tree/master/0868-binary-gap) |
@@ -362,4 +364,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/deepu4402020/LeetCode/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
+## Tree
+|  |
+| ------- |
+| [0222-count-complete-tree-nodes](https://github.com/deepu4402020/LeetCode/tree/master/0222-count-complete-tree-nodes) |
+## Binary Tree
+|  |
+| ------- |
+| [0222-count-complete-tree-nodes](https://github.com/deepu4402020/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 <!---LeetCode Topics End-->
