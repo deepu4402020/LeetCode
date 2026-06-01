@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0498-diagonal-traverse](https://github.com/deepu4402020/LeetCode/tree/master/0498-diagonal-traverse) |
 | [0518-coin-change-ii](https://github.com/deepu4402020/LeetCode/tree/master/0518-coin-change-ii) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/deepu4402020/LeetCode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [0724-find-pivot-index](https://github.com/deepu4402020/LeetCode/tree/master/0724-find-pivot-index) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/deepu4402020/LeetCode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0994-rotting-oranges](https://github.com/deepu4402020/LeetCode/tree/master/0994-rotting-oranges) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/deepu4402020/LeetCode/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/deepu4402020/LeetCode/tree/master/0238-product-of-array-except-self) |
+| [0724-find-pivot-index](https://github.com/deepu4402020/LeetCode/tree/master/0724-find-pivot-index) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/deepu4402020/LeetCode/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/deepu4402020/LeetCode/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1871-jump-game-vii](https://github.com/deepu4402020/LeetCode/tree/master/1871-jump-game-vii) |
