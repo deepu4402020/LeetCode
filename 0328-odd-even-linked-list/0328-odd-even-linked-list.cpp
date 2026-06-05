@@ -18,7 +18,7 @@ public:
         ListNode*newHead=head->next;
         ListNode*t2=newHead;
 
-        while(t2 && t1->next && t2->next){
+        while(t2 && t2->next){
             t1->next=t2->next;
             
             t2->next=t2->next->next;
