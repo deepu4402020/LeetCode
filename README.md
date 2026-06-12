@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/deepu4402020/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/deepu4402020/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0264-ugly-number-ii](https://github.com/deepu4402020/LeetCode/tree/master/0264-ugly-number-ii) |
+| [0424-longest-repeating-character-replacement](https://github.com/deepu4402020/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0904-fruit-into-baskets](https://github.com/deepu4402020/LeetCode/tree/master/0904-fruit-into-baskets) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/deepu4402020/LeetCode/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1980-find-unique-binary-string](https://github.com/deepu4402020/LeetCode/tree/master/1980-find-unique-binary-string) |
@@ -177,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/deepu4402020/LeetCode/tree/master/0049-group-anagrams) |
 | [0079-word-search](https://github.com/deepu4402020/LeetCode/tree/master/0079-word-search) |
 | [0127-word-ladder](https://github.com/deepu4402020/LeetCode/tree/master/0127-word-ladder) |
+| [0424-longest-repeating-character-replacement](https://github.com/deepu4402020/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0696-count-binary-substrings](https://github.com/deepu4402020/LeetCode/tree/master/0696-count-binary-substrings) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/deepu4402020/LeetCode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/deepu4402020/LeetCode/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
@@ -245,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0424-longest-repeating-character-replacement](https://github.com/deepu4402020/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0904-fruit-into-baskets](https://github.com/deepu4402020/LeetCode/tree/master/0904-fruit-into-baskets) |
 | [1871-jump-game-vii](https://github.com/deepu4402020/LeetCode/tree/master/1871-jump-game-vii) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/deepu4402020/LeetCode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
