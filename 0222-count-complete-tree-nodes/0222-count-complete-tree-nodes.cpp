@@ -11,19 +11,42 @@
  */
 class Solution {
 public:
+
     int countNodes(TreeNode* root) {
-        if(root==NULL) return 0;
-        queue<TreeNode*> q;
-        int cnt=0;
-        q.push(root);
-        while(!q.empty())
-        {
-            TreeNode* temp = q.front();
-            q.pop();
-            cnt++;
-            if(temp->left!=NULL) q.push(temp->left);
-            if(temp->right!=NULL) q.push(temp->right);
+
+        if (root == NULL) {
+            return 0;
         }
-        return cnt;
+
+        int lh = findhLeft(root);
+
+        int rh = findhRight(root);
+
+        if (lh == rh) {
+            // 2^h - 1
+            return (1 << lh) - 1;
+        }
+
+        return 1 + countNodes(root->left) + countNodes(root->right);
+    }
+
+
+    int findhLeft(TreeNode* node) {
+        int h = 0;
+        while (node) {
+            h++;
+            node = node->left;
+        }
+        return h;
+    }
+
+
+    int findhRight(TreeNode* node) {
+        int h = 0;
+        while (node) {
+            h++;
+            node = node->right;
+        }
+        return h;
     }
 };
