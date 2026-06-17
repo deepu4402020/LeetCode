@@ -176,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/deepu4402020/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0032-longest-valid-parentheses](https://github.com/deepu4402020/LeetCode/tree/master/0032-longest-valid-parentheses) |
+| [0043-multiply-strings](https://github.com/deepu4402020/LeetCode/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/deepu4402020/LeetCode/tree/master/0049-group-anagrams) |
 | [0079-word-search](https://github.com/deepu4402020/LeetCode/tree/master/0079-word-search) |
 | [0093-restore-ip-addresses](https://github.com/deepu4402020/LeetCode/tree/master/0093-restore-ip-addresses) |
@@ -379,6 +380,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/deepu4402020/LeetCode/tree/master/0043-multiply-strings) |
 | [0264-ugly-number-ii](https://github.com/deepu4402020/LeetCode/tree/master/0264-ugly-number-ii) |
 | [0396-rotate-function](https://github.com/deepu4402020/LeetCode/tree/master/0396-rotate-function) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/deepu4402020/LeetCode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
@@ -394,6 +396,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/deepu4402020/LeetCode/tree/master/0043-multiply-strings) |
 | [0498-diagonal-traverse](https://github.com/deepu4402020/LeetCode/tree/master/0498-diagonal-traverse) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/deepu4402020/LeetCode/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/deepu4402020/LeetCode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
