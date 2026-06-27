@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2784-check-if-array-is-good](https://github.com/deepu4402020/LeetCode/tree/master/2784-check-if-array-is-good) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/deepu4402020/LeetCode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/deepu4402020/LeetCode/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
+| [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/deepu4402020/LeetCode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/deepu4402020/LeetCode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/deepu4402020/LeetCode/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3161-block-placement-queries](https://github.com/deepu4402020/LeetCode/tree/master/3161-block-placement-queries) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2707-extra-characters-in-a-string](https://github.com/deepu4402020/LeetCode/tree/master/2707-extra-characters-in-a-string) |
 | [2784-check-if-array-is-good](https://github.com/deepu4402020/LeetCode/tree/master/2784-check-if-array-is-good) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/deepu4402020/LeetCode/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
+| [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/deepu4402020/LeetCode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/deepu4402020/LeetCode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3713-longest-balanced-substring-i](https://github.com/deepu4402020/LeetCode/tree/master/3713-longest-balanced-substring-i) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/deepu4402020/LeetCode/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
@@ -106,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/deepu4402020/LeetCode/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
+| [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/deepu4402020/LeetCode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3713-longest-balanced-substring-i](https://github.com/deepu4402020/LeetCode/tree/master/3713-longest-balanced-substring-i) |
 ## Binary Search
 |  |
