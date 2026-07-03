@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/deepu4402020/LeetCode/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/deepu4402020/LeetCode/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/deepu4402020/LeetCode/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
+| [3620-network-recovery-pathways](https://github.com/deepu4402020/LeetCode/tree/master/3620-network-recovery-pathways) |
 | [3637-trionic-array-i](https://github.com/deepu4402020/LeetCode/tree/master/3637-trionic-array-i) |
 | [3643-flip-square-submatrix-vertically](https://github.com/deepu4402020/LeetCode/tree/master/3643-flip-square-submatrix-vertically) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/deepu4402020/LeetCode/tree/master/3653-xor-after-range-multiplication-queries-i) |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3161-block-placement-queries](https://github.com/deepu4402020/LeetCode/tree/master/3161-block-placement-queries) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/deepu4402020/LeetCode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/deepu4402020/LeetCode/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
+| [3620-network-recovery-pathways](https://github.com/deepu4402020/LeetCode/tree/master/3620-network-recovery-pathways) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/deepu4402020/LeetCode/tree/master/3661-maximum-walls-destroyed-by-robots) |
 ## Matrix
 |  |
@@ -320,11 +322,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0841-keys-and-rooms](https://github.com/deepu4402020/LeetCode/tree/master/0841-keys-and-rooms) |
 | [1971-find-if-path-exists-in-graph](https://github.com/deepu4402020/LeetCode/tree/master/1971-find-if-path-exists-in-graph) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/deepu4402020/LeetCode/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3620-network-recovery-pathways](https://github.com/deepu4402020/LeetCode/tree/master/3620-network-recovery-pathways) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/deepu4402020/LeetCode/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 ## Topological Sort
 |  |
 | ------- |
 | [0210-course-schedule-ii](https://github.com/deepu4402020/LeetCode/tree/master/0210-course-schedule-ii) |
+| [3620-network-recovery-pathways](https://github.com/deepu4402020/LeetCode/tree/master/3620-network-recovery-pathways) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -333,11 +337,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1424-diagonal-traverse-ii](https://github.com/deepu4402020/LeetCode/tree/master/1424-diagonal-traverse-ii) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/deepu4402020/LeetCode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/deepu4402020/LeetCode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
+| [3620-network-recovery-pathways](https://github.com/deepu4402020/LeetCode/tree/master/3620-network-recovery-pathways) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/deepu4402020/LeetCode/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 ## Shortest Path
 |  |
 | ------- |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/deepu4402020/LeetCode/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3620-network-recovery-pathways](https://github.com/deepu4402020/LeetCode/tree/master/3620-network-recovery-pathways) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/deepu4402020/LeetCode/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 ## Monotonic Stack
 |  |
@@ -391,6 +397,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2707-extra-characters-in-a-string](https://github.com/deepu4402020/LeetCode/tree/master/2707-extra-characters-in-a-string) |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/deepu4402020/LeetCode/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/deepu4402020/LeetCode/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
+| [3620-network-recovery-pathways](https://github.com/deepu4402020/LeetCode/tree/master/3620-network-recovery-pathways) |
 | [3660-jump-game-ix](https://github.com/deepu4402020/LeetCode/tree/master/3660-jump-game-ix) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/deepu4402020/LeetCode/tree/master/3661-maximum-walls-destroyed-by-robots) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/deepu4402020/LeetCode/tree/master/3742-maximum-path-score-in-a-grid) |
