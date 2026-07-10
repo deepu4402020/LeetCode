@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/deepu4402020/LeetCode/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/deepu4402020/LeetCode/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/deepu4402020/LeetCode/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/deepu4402020/LeetCode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/deepu4402020/LeetCode/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3620-network-recovery-pathways](https://github.com/deepu4402020/LeetCode/tree/master/3620-network-recovery-pathways) |
 | [3637-trionic-array-i](https://github.com/deepu4402020/LeetCode/tree/master/3637-trionic-array-i) |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/deepu4402020/LeetCode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/deepu4402020/LeetCode/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/deepu4402020/LeetCode/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/deepu4402020/LeetCode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/deepu4402020/LeetCode/tree/master/3620-network-recovery-pathways) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/deepu4402020/LeetCode/tree/master/3661-maximum-walls-destroyed-by-robots) |
 ## Matrix
@@ -194,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1861-rotating-the-box](https://github.com/deepu4402020/LeetCode/tree/master/1861-rotating-the-box) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/deepu4402020/LeetCode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/deepu4402020/LeetCode/tree/master/2161-partition-array-according-to-given-pivot) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/deepu4402020/LeetCode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3643-flip-square-submatrix-vertically](https://github.com/deepu4402020/LeetCode/tree/master/3643-flip-square-submatrix-vertically) |
 ## String
 |  |
@@ -270,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2126-destroying-asteroids](https://github.com/deepu4402020/LeetCode/tree/master/2126-destroying-asteroids) |
 | [2784-check-if-array-is-good](https://github.com/deepu4402020/LeetCode/tree/master/2784-check-if-array-is-good) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/deepu4402020/LeetCode/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/deepu4402020/LeetCode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/deepu4402020/LeetCode/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/deepu4402020/LeetCode/tree/master/3661-maximum-walls-destroyed-by-robots) |
 ## Union-Find
@@ -331,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1971-find-if-path-exists-in-graph](https://github.com/deepu4402020/LeetCode/tree/master/1971-find-if-path-exists-in-graph) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/deepu4402020/LeetCode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/deepu4402020/LeetCode/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/deepu4402020/LeetCode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/deepu4402020/LeetCode/tree/master/3620-network-recovery-pathways) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/deepu4402020/LeetCode/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 ## Topological Sort
@@ -372,6 +377,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/deepu4402020/LeetCode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/deepu4402020/LeetCode/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/deepu4402020/LeetCode/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/deepu4402020/LeetCode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Greedy
 |  |
 | ------- |
@@ -386,6 +392,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2126-destroying-asteroids](https://github.com/deepu4402020/LeetCode/tree/master/2126-destroying-asteroids) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/deepu4402020/LeetCode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3474-lexicographically-smallest-generated-string](https://github.com/deepu4402020/LeetCode/tree/master/3474-lexicographically-smallest-generated-string) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/deepu4402020/LeetCode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3810-minimum-operations-to-reach-target-array](https://github.com/deepu4402020/LeetCode/tree/master/3810-minimum-operations-to-reach-target-array) |
 ## Dynamic Programming
 |  |
@@ -407,6 +414,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2707-extra-characters-in-a-string](https://github.com/deepu4402020/LeetCode/tree/master/2707-extra-characters-in-a-string) |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/deepu4402020/LeetCode/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/deepu4402020/LeetCode/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/deepu4402020/LeetCode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/deepu4402020/LeetCode/tree/master/3620-network-recovery-pathways) |
 | [3660-jump-game-ix](https://github.com/deepu4402020/LeetCode/tree/master/3660-jump-game-ix) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/deepu4402020/LeetCode/tree/master/3661-maximum-walls-destroyed-by-robots) |
