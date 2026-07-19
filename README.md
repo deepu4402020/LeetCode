@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0518-coin-change-ii](https://github.com/deepu4402020/LeetCode/tree/master/0518-coin-change-ii) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/deepu4402020/LeetCode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0724-find-pivot-index](https://github.com/deepu4402020/LeetCode/tree/master/0724-find-pivot-index) |
+| [0740-delete-and-earn](https://github.com/deepu4402020/LeetCode/tree/master/0740-delete-and-earn) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/deepu4402020/LeetCode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0904-fruit-into-baskets](https://github.com/deepu4402020/LeetCode/tree/master/0904-fruit-into-baskets) |
 | [0994-rotting-oranges](https://github.com/deepu4402020/LeetCode/tree/master/0994-rotting-oranges) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/deepu4402020/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0264-ugly-number-ii](https://github.com/deepu4402020/LeetCode/tree/master/0264-ugly-number-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/deepu4402020/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
+| [0740-delete-and-earn](https://github.com/deepu4402020/LeetCode/tree/master/0740-delete-and-earn) |
 | [0904-fruit-into-baskets](https://github.com/deepu4402020/LeetCode/tree/master/0904-fruit-into-baskets) |
 | [1331-rank-transform-of-an-array](https://github.com/deepu4402020/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/deepu4402020/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -411,6 +413,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0396-rotate-function](https://github.com/deepu4402020/LeetCode/tree/master/0396-rotate-function) |
 | [0518-coin-change-ii](https://github.com/deepu4402020/LeetCode/tree/master/0518-coin-change-ii) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/deepu4402020/LeetCode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [0740-delete-and-earn](https://github.com/deepu4402020/LeetCode/tree/master/0740-delete-and-earn) |
 | [0799-champagne-tower](https://github.com/deepu4402020/LeetCode/tree/master/0799-champagne-tower) |
 | [1137-n-th-tribonacci-number](https://github.com/deepu4402020/LeetCode/tree/master/1137-n-th-tribonacci-number) |
 | [1301-number-of-paths-with-max-score](https://github.com/deepu4402020/LeetCode/tree/master/1301-number-of-paths-with-max-score) |
