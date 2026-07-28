@@ -243,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/deepu4402020/LeetCode/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/deepu4402020/LeetCode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3474-lexicographically-smallest-generated-string](https://github.com/deepu4402020/LeetCode/tree/master/3474-lexicographically-smallest-generated-string) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/deepu4402020/LeetCode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3612-process-string-with-special-operations-i](https://github.com/deepu4402020/LeetCode/tree/master/3612-process-string-with-special-operations-i) |
 | [3713-longest-balanced-substring-i](https://github.com/deepu4402020/LeetCode/tree/master/3713-longest-balanced-substring-i) |
 | [3838-weighted-word-mapping](https://github.com/deepu4402020/LeetCode/tree/master/3838-weighted-word-mapping) |
@@ -289,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2126-destroying-asteroids](https://github.com/deepu4402020/LeetCode/tree/master/2126-destroying-asteroids) |
 | [2784-check-if-array-is-good](https://github.com/deepu4402020/LeetCode/tree/master/2784-check-if-array-is-good) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/deepu4402020/LeetCode/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/deepu4402020/LeetCode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/deepu4402020/LeetCode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/deepu4402020/LeetCode/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/deepu4402020/LeetCode/tree/master/3661-maximum-walls-destroyed-by-robots) |
@@ -544,6 +546,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1833-maximum-ice-cream-bars](https://github.com/deepu4402020/LeetCode/tree/master/1833-maximum-ice-cream-bars) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/deepu4402020/LeetCode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Number Theory
 |  |
 | ------- |
