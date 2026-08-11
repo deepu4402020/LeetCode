@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2784-check-if-array-is-good](https://github.com/deepu4402020/LeetCode/tree/master/2784-check-if-array-is-good) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/deepu4402020/LeetCode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/deepu4402020/LeetCode/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/deepu4402020/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/deepu4402020/LeetCode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/deepu4402020/LeetCode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/deepu4402020/LeetCode/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2707-extra-characters-in-a-string](https://github.com/deepu4402020/LeetCode/tree/master/2707-extra-characters-in-a-string) |
 | [2784-check-if-array-is-good](https://github.com/deepu4402020/LeetCode/tree/master/2784-check-if-array-is-good) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/deepu4402020/LeetCode/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/deepu4402020/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/deepu4402020/LeetCode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/deepu4402020/LeetCode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/deepu4402020/LeetCode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
@@ -294,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/deepu4402020/LeetCode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2126-destroying-asteroids](https://github.com/deepu4402020/LeetCode/tree/master/2126-destroying-asteroids) |
 | [2784-check-if-array-is-good](https://github.com/deepu4402020/LeetCode/tree/master/2784-check-if-array-is-good) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/deepu4402020/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/deepu4402020/LeetCode/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/deepu4402020/LeetCode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/deepu4402020/LeetCode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
